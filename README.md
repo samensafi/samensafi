@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @samensafi
+- 👋🏻 Hi, I’m @samensafi
 - 👀 I’m interested in Python, HTML, and CSS.
-- 🌱 I’m currently learning Data Science, C++, and Unix.
-- 💞️ I believe I am now ready to carry out my passion and determination and use these skills in both my personal and career life.
+- 💡 I’m currently learning Data Science, C++, and Unix.
+- 👨🏻‍💻 I believe I am now ready to carry out my passion and determination and use these skills in both my personal and career life.
 - 📫 You can reach me via my email at sam.ensafi@ryerson.ca .
